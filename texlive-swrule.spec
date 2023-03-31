@@ -1,6 +1,6 @@
 Name:		texlive-swrule
 Version:	54267
-Release:	1
+Release:	2
 Summary:	Lines thicker in the middle than at the ends
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/swrule
