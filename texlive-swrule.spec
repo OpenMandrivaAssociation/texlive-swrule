@@ -3,7 +3,7 @@ Version:	54267
 Release:	2
 Summary:	Lines thicker in the middle than at the ends
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/swrule
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/swrule
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/swrule.r%{version}.tar.xz
 BuildArch:	noarch
